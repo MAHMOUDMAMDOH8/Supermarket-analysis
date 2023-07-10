@@ -6,6 +6,7 @@ It involves creating a dimensional model using SQL to design and implement the d
 The project also includes populating the dimensional model with data and utilizing Power BI to create visualizations for analysis and reporting.
 
 Key Components
+
 Dimensional Model Design: Use SQL to design and create the dimensional model for the data warehouse. Define dimension and fact tables based on the supermarket sales data structure.
 
 Data Population: Insert data into the dimension and fact tables of the data warehouse. Ensure the data is accurately mapped to the corresponding dimensions and facts.
